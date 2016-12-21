@@ -8,7 +8,7 @@ Easy, Customized Modal Box
 # Customization
 Adjust below mentioned settings to your anchor tag as per requirement...
 
-class="modal-button"                  /*'Modal-button' must present on the anchor tag-->*/ <br>
+class="modal-button"                  <small>/*Modal-button' must present on the anchor tag*/</small> <br>
 data-height="50vh"                    /*Define height of Modal Box */ <br>
 data-width="50vw"                     /*Define width of Modal Box-->  <br>
 data-title="Sample Popup"             /*Define Heading of Modal Box--> <br>
