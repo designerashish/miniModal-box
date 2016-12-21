@@ -8,12 +8,12 @@ Easy, Customized Modal Box
 # Customization
 Adjust below mentioned settings to your anchor tag as per requirement...
 
-class="modal-button"                  <small>/*Modal-button' must present on the anchor tag*/</small> <br>
-data-height="50vh"                    /*Define height of Modal Box */ <br>
-data-width="50vw"                     /*Define width of Modal Box-->  <br>
-data-title="Sample Popup"             /*Define Heading of Modal Box--> <br>
-data-overlay-opacity="0.2"            /*Define Overlay Opacity--><br>
-data-overlay-color="blue"             /*Define Overlay Color--><br>
-data-animate-in="bounceInUp"          /*Define the animation from list of animation in animate.css https://daneden.github.io/animate.css/ */ <br>
-data-animate-out="bounceOutDown"      /*Define the animation from list of animation in animate.css https://daneden.github.io/animate.css/- */ <br>
-data-ajax=""                          /*Ajax URL */ <br>
+<pre><code>class="modal-button" </code>             Modal-button' must present on the anchor tag </pre>
+<pre><code>data-height="50vh"</code>                    Define height of Modal Box </pre>
+<pre><code>data-width="50vw"</code>                     Define width of Modal Box </pre>
+<pre><code>data-title="Sample Popup"</code>             Define Heading of Modal Box </pre>
+<pre><code>data-overlay-opacity="0.2"</code>            Define Overlay Opacity </pre>
+<pre><code>data-overlay-color="blue"</code>             Define Overlay Color </pre>
+<pre><code>data-animate-in="bounceInUp"</code>          Define the animation from list of animation in animate.css https://daneden.github.io/animate.css/  </pre>
+<pre><code>data-animate-out="bounceOutDown"</code>      Define the animation from list of animation in animate.css https://daneden.github.io/animate.css/ </pre>
+<pre><code>data-ajax=""</code>                          Ajax URL </pre>
